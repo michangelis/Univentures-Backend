@@ -5,3 +5,7 @@ UniVentures was developed with the idea of facilitating and encouraging student 
 You can read more about the project in the doc files and see a preview of the app in the video.
 
 Note that this is only the backend part of the project, to run the complete project you need to also setup the frontend, which you can find <a href='https://github.com/michangelis/UniVentures'>here</a>
+
+
+<a href="https://drive.google.com/file/d/1QxOujHdPDjgewfNeNm9Wg9sV5vYPiiuL/view">Demo</a>
+
